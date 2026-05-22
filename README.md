@@ -10,6 +10,14 @@ An intelligent, context-driven wordlist generator designed for penetration testi
 
 ---
 
+## 💾 Download Installer
+
+If you just want to use the tool and are not familiar with GitHub's source code interface, click the link below to go straight to the secure download page:
+
+### 📥 [▶ Click Here to Download the MSI Installer (Open Beta)](https://github.com/Nyxtics/Wordlist-Intelligent-Generator/releases/tag/v1.0.0-beta)
+
+---
+
 ## 🚀 Key Features
 
 * **High-Relevance Funnel:** Prioritizes natural combinations (names, dates, close preferences) at the top of the list. Complex variations, leet speak, and special characters are introduced progressively, avoiding early file pollution.
@@ -32,7 +40,7 @@ Traditional dictionary generators create millions of dead lines that security pr
 This project is currently in its open beta phase and **ready for immediate testing!** To ensure security professionals can evaluate the tool's efficiency, the engine includes a built-in **7-day free trial** upon first launch.
 
 ### 📥 How to Test
-1. Clone or download the repository.
+1. Download the installer using the link in the **Download Installer** section above.
 2. Run the executable or MSI installer to automatically activate your **7-day evaluation period**.
 3. Explore the full capabilities of the context-driven engine on your assessments.
 
