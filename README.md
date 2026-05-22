@@ -18,6 +18,19 @@ If you just want to use the tool and are not familiar with GitHub's source code 
 
 ---
 
+## 📸 Screenshots
+
+🖥️ Main Interface & Configuration
+<img width="1749" height="1025" alt="FOTO 1" src="https://github.com/user-attachments/assets/1191e1db-9cd5-470f-8d02-37cf4fc68bf2" />
+
+🧠 Behavior & Advanced Algorithm Rules
+<img width="1744" height="1020" alt="FOTO 2" src="https://github.com/user-attachments/assets/0214c04e-f06d-4394-ad7b-ec3bbfa923e5" />
+
+📊 Optimized Generation Results
+<img width="1744" height="710" alt="FOTO 4" src="https://github.com/user-attachments/assets/0a792555-1a79-4281-b963-b9afd01bd1b6" />
+
+---
+
 ## 🚀 Key Features
 
 * **High-Relevance Funnel:** Prioritizes natural combinations (names, dates, close preferences) at the top of the list. Complex variations, leet speak, and special characters are introduced progressively, avoiding early file pollution.
