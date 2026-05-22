@@ -1,0 +1,72 @@
+========================================================================
+[EN/US] - WELCOME TO THE PROJECT!
+========================================================================
+
+This program was developed to optimize your security workflows. Below, you will find installation instructions and details about your trial evaluation.
+
+---
+
+## 💻 Installation Options
+
+You have complete flexibility to choose how you want to run the application. There is absolutely no difference in performance or features between the two choices:
+
+* **Standard Installation:** Install the program directly onto your system using the MSI installer.
+* **Portable Version:** You can simply extract the `.msi` package contents and run the executable directly without a formal installation.
+
+---
+
+## ⏱️ Evaluation Period (Trial)
+
+* **Full Access:** On the very first launch, a 7-day trial will automatically activate with no feature limitations.
+* **Your Feedback is Vital:** To keep evolving this engine, your opinion is crucial! Please report bugs, share performance reviews, or suggest new features. Let's build a better tool together.
+
+### ☕ Support the Development
+If this tool has brought value to your assessments and you need to renew your evaluation license, please consider supporting the project with a donation of any amount. This directly helps keep development active.
+
+---
+
+## 🔒 Security & Integrity Check
+
+> ⚠️ IMPORTANT: If you did not download this package directly from the official GitHub repository, please perform an MD5 checksum verification against the official hash provided in the GitHub directory before execution.
+
+---
+
+Made with ❤️ by NXTs / Josue Augusto
+Copyright (c) 2026 - All rights reserved.
+
+
+========================================================================
+[PT/BR] - BEM-VINDO AO PROJETO!
+========================================================================
+
+Este programa foi desenvolvido para otimizar os seus fluxos de trabalho em segurança. Abaixo, você encontrará as instruções de instalação e informações sobre o período de testes.
+
+---
+
+## 💻 Opções de Instalação
+
+Você tem total flexibilidade para escolher como quer utilizar o programa. Não há nenhuma diferença de desempenho ou recursos entre as duas opções:
+
+* **Instalação Padrão:** Instale o programa diretamente no seu sistema utilizando o instalador MSI.
+* **Versão Portátil:** Você pode apenas extrair o conteúdo do arquivo `.msi` e executá-lo diretamente, sem a necessidade de uma instalação formal.
+
+---
+
+## ⏱️ Período de Avaliação (Trial)
+
+* **Acesso Total:** Na primeira execução, o sistema ativará automaticamente 7 dias de trial sem qualquer tipo de limitação de recursos.
+* **Seu Feedback é Vital:** Para continuar evoluindo esta engine, sua opinião é fundamental! Relate bugs, envie ideias de melhorias ou deixe seu feedback. Vamos juntos construir uma ferramenta melhor.
+
+### ☕ Apoie o Desenvolvimento
+Se o programa te ajudou em suas análises e você precisa renovar a sua licença de avaliação, considere apoiar o projeto fazendo uma doação de qualquer valor. Isso ajuda diretamente a manter o desenvolvimento ativo e constante.
+
+---
+
+## 🔒 Segurança (Verificação de Integridade)
+
+> ⚠️ IMPORTANTE: Se você não baixou este programa diretamente do repositório oficial no GitHub, por favor, efetue a checagem do hash MD5 (disponível no diretório do projeto no GitHub) antes de executá-lo para garantir a sua segurança.
+
+---
+
+Feito com ❤️ por NXTs / Josue Augusto
+Copyright (c) 2026 - Todos os direitos reservados.
